@@ -1,0 +1,89 @@
+button {
+	background-color: rgb(255, 255, 180);
+	color: black;
+	border-color: gray;
+	font-size: 25px;
+	border-radius: 200px;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#task {
+	text-align: center;
+	right: 800px;
+	font-size: 30px;
+	margin: 20px;
+	border: 10px;
+	padding: 20px;
+}
+
+p {
+	font-family: "Lucida Console", "Courier New", monospace;
+	font-size: 25px;
+}
+
+body {
+	background-color: #B9D9EB;
+}
+
+#quote {
+	font-size: 30px;
+	font-family: "Lucida Console", "Courier New", monospace;
+	text-align: center;
+}
+
+h1 {
+	font-family: "Lucida Console", "Courier New", monospace;
+	font-size: 60px;
+	text-align: center;
+}
+
+div {
+	z-index: 2;
+}
+
+#result {
+	font-size: 20px;
+}
+
+#cloud1 {
+	position: absolute;
+	top: 520px;
+	right: 1000px;
+	z-index: -1;
+
+}
+
+#cloud2 {
+	position: absolute;
+	top: 60px;
+	right: 160px;
+	z-index: -1;
+}
+
+#cloud3 {
+	position: absolute;
+	top: 280px;
+	right: 350px;
+	z-index: -1;
+}
+
+#cloud4 {
+	position: absolute;
+	top: 20px;
+	right: 800px;
+	z-index: -1;
+}
+
+#cloud5 {
+	position: absolute;
+	top: 600px;
+	right: 10px;
+	z-index: -1;
+}
+
+#count {
+	position: absolute;
+	right: 60px;
+	font-size: 30px;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
